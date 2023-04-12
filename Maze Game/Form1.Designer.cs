@@ -516,8 +516,6 @@
             this.pictureBox1.Size = new System.Drawing.Size(745, 16);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox1.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox2
             // 
@@ -527,8 +525,6 @@
             this.pictureBox2.Size = new System.Drawing.Size(746, 16);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
-            this.pictureBox2.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox2.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox3
             // 
@@ -538,8 +534,6 @@
             this.pictureBox3.Size = new System.Drawing.Size(10, 787);
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
-            this.pictureBox3.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox3.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox4
             // 
@@ -549,8 +543,6 @@
             this.pictureBox4.Size = new System.Drawing.Size(14, 787);
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
-            this.pictureBox4.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox4.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox5
             // 
@@ -560,8 +552,6 @@
             this.pictureBox5.Size = new System.Drawing.Size(10, 169);
             this.pictureBox5.TabIndex = 4;
             this.pictureBox5.TabStop = false;
-            this.pictureBox5.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox5.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox6
             // 
@@ -571,8 +561,6 @@
             this.pictureBox6.Size = new System.Drawing.Size(10, 225);
             this.pictureBox6.TabIndex = 5;
             this.pictureBox6.TabStop = false;
-            this.pictureBox6.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox6.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox7
             // 
@@ -582,8 +570,6 @@
             this.pictureBox7.Size = new System.Drawing.Size(10, 227);
             this.pictureBox7.TabIndex = 6;
             this.pictureBox7.TabStop = false;
-            this.pictureBox7.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox7.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox8
             // 
@@ -593,8 +579,6 @@
             this.pictureBox8.Size = new System.Drawing.Size(10, 161);
             this.pictureBox8.TabIndex = 7;
             this.pictureBox8.TabStop = false;
-            this.pictureBox8.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox8.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox9
             // 
@@ -604,8 +588,6 @@
             this.pictureBox9.Size = new System.Drawing.Size(10, 217);
             this.pictureBox9.TabIndex = 8;
             this.pictureBox9.TabStop = false;
-            this.pictureBox9.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox9.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox10
             // 
@@ -615,8 +597,6 @@
             this.pictureBox10.Size = new System.Drawing.Size(155, 10);
             this.pictureBox10.TabIndex = 9;
             this.pictureBox10.TabStop = false;
-            this.pictureBox10.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox10.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox11
             // 
@@ -626,8 +606,6 @@
             this.pictureBox11.Size = new System.Drawing.Size(10, 46);
             this.pictureBox11.TabIndex = 10;
             this.pictureBox11.TabStop = false;
-            this.pictureBox11.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox11.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox12
             // 
@@ -637,9 +615,6 @@
             this.pictureBox12.Size = new System.Drawing.Size(10, 67);
             this.pictureBox12.TabIndex = 11;
             this.pictureBox12.TabStop = false;
-            this.pictureBox12.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox12.Click += new System.EventHandler(this.pictureBox12_Click);
-            this.pictureBox12.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox13
             // 
@@ -649,8 +624,6 @@
             this.pictureBox13.Size = new System.Drawing.Size(39, 10);
             this.pictureBox13.TabIndex = 12;
             this.pictureBox13.TabStop = false;
-            this.pictureBox13.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox13.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox14
             // 
@@ -660,8 +633,6 @@
             this.pictureBox14.Size = new System.Drawing.Size(11, 101);
             this.pictureBox14.TabIndex = 13;
             this.pictureBox14.TabStop = false;
-            this.pictureBox14.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox14.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox15
             // 
@@ -671,8 +642,6 @@
             this.pictureBox15.Size = new System.Drawing.Size(106, 10);
             this.pictureBox15.TabIndex = 14;
             this.pictureBox15.TabStop = false;
-            this.pictureBox15.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox15.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox16
             // 
@@ -682,19 +651,15 @@
             this.pictureBox16.Size = new System.Drawing.Size(11, 41);
             this.pictureBox16.TabIndex = 15;
             this.pictureBox16.TabStop = false;
-            this.pictureBox16.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox16.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox17
             // 
             this.pictureBox17.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.pictureBox17.Location = new System.Drawing.Point(355, 69);
+            this.pictureBox17.Location = new System.Drawing.Point(362, 69);
             this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(71, 10);
+            this.pictureBox17.Size = new System.Drawing.Size(64, 10);
             this.pictureBox17.TabIndex = 16;
             this.pictureBox17.TabStop = false;
-            this.pictureBox17.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox17.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox18
             // 
@@ -704,8 +669,6 @@
             this.pictureBox18.Size = new System.Drawing.Size(68, 10);
             this.pictureBox18.TabIndex = 17;
             this.pictureBox18.TabStop = false;
-            this.pictureBox18.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox18.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox19
             // 
@@ -715,8 +678,6 @@
             this.pictureBox19.Size = new System.Drawing.Size(10, 45);
             this.pictureBox19.TabIndex = 18;
             this.pictureBox19.TabStop = false;
-            this.pictureBox19.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox19.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox20
             // 
@@ -726,8 +687,6 @@
             this.pictureBox20.Size = new System.Drawing.Size(10, 32);
             this.pictureBox20.TabIndex = 19;
             this.pictureBox20.TabStop = false;
-            this.pictureBox20.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox20.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox21
             // 
@@ -737,8 +696,6 @@
             this.pictureBox21.Size = new System.Drawing.Size(32, 10);
             this.pictureBox21.TabIndex = 20;
             this.pictureBox21.TabStop = false;
-            this.pictureBox21.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox21.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox22
             // 
@@ -748,8 +705,6 @@
             this.pictureBox22.Size = new System.Drawing.Size(36, 10);
             this.pictureBox22.TabIndex = 21;
             this.pictureBox22.TabStop = false;
-            this.pictureBox22.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox22.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox23
             // 
@@ -759,8 +714,6 @@
             this.pictureBox23.Size = new System.Drawing.Size(41, 10);
             this.pictureBox23.TabIndex = 22;
             this.pictureBox23.TabStop = false;
-            this.pictureBox23.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox23.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox24
             // 
@@ -770,8 +723,6 @@
             this.pictureBox24.Size = new System.Drawing.Size(10, 128);
             this.pictureBox24.TabIndex = 23;
             this.pictureBox24.TabStop = false;
-            this.pictureBox24.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox24.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox25
             // 
@@ -781,8 +732,6 @@
             this.pictureBox25.Size = new System.Drawing.Size(10, 160);
             this.pictureBox25.TabIndex = 24;
             this.pictureBox25.TabStop = false;
-            this.pictureBox25.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox25.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox26
             // 
@@ -792,8 +741,6 @@
             this.pictureBox26.Size = new System.Drawing.Size(75, 10);
             this.pictureBox26.TabIndex = 25;
             this.pictureBox26.TabStop = false;
-            this.pictureBox26.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox26.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox27
             // 
@@ -803,8 +750,6 @@
             this.pictureBox27.Size = new System.Drawing.Size(11, 73);
             this.pictureBox27.TabIndex = 26;
             this.pictureBox27.TabStop = false;
-            this.pictureBox27.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox27.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox28
             // 
@@ -814,8 +759,6 @@
             this.pictureBox28.Size = new System.Drawing.Size(40, 10);
             this.pictureBox28.TabIndex = 27;
             this.pictureBox28.TabStop = false;
-            this.pictureBox28.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox28.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox29
             // 
@@ -825,8 +768,6 @@
             this.pictureBox29.Size = new System.Drawing.Size(10, 34);
             this.pictureBox29.TabIndex = 28;
             this.pictureBox29.TabStop = false;
-            this.pictureBox29.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox29.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox30
             // 
@@ -836,8 +777,6 @@
             this.pictureBox30.Size = new System.Drawing.Size(10, 44);
             this.pictureBox30.TabIndex = 29;
             this.pictureBox30.TabStop = false;
-            this.pictureBox30.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox30.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox31
             // 
@@ -847,8 +786,6 @@
             this.pictureBox31.Size = new System.Drawing.Size(30, 10);
             this.pictureBox31.TabIndex = 30;
             this.pictureBox31.TabStop = false;
-            this.pictureBox31.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox31.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox32
             // 
@@ -858,8 +795,6 @@
             this.pictureBox32.Size = new System.Drawing.Size(32, 10);
             this.pictureBox32.TabIndex = 31;
             this.pictureBox32.TabStop = false;
-            this.pictureBox32.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox32.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox33
             // 
@@ -869,8 +804,6 @@
             this.pictureBox33.Size = new System.Drawing.Size(190, 10);
             this.pictureBox33.TabIndex = 32;
             this.pictureBox33.TabStop = false;
-            this.pictureBox33.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox33.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox34
             // 
@@ -880,8 +813,6 @@
             this.pictureBox34.Size = new System.Drawing.Size(13, 129);
             this.pictureBox34.TabIndex = 33;
             this.pictureBox34.TabStop = false;
-            this.pictureBox34.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox34.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox35
             // 
@@ -891,8 +822,6 @@
             this.pictureBox35.Size = new System.Drawing.Size(53, 10);
             this.pictureBox35.TabIndex = 34;
             this.pictureBox35.TabStop = false;
-            this.pictureBox35.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox35.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox36
             // 
@@ -902,8 +831,6 @@
             this.pictureBox36.Size = new System.Drawing.Size(11, 162);
             this.pictureBox36.TabIndex = 35;
             this.pictureBox36.TabStop = false;
-            this.pictureBox36.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox36.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox37
             // 
@@ -913,8 +840,6 @@
             this.pictureBox37.Size = new System.Drawing.Size(10, 169);
             this.pictureBox37.TabIndex = 36;
             this.pictureBox37.TabStop = false;
-            this.pictureBox37.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox37.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox38
             // 
@@ -924,8 +849,6 @@
             this.pictureBox38.Size = new System.Drawing.Size(10, 68);
             this.pictureBox38.TabIndex = 37;
             this.pictureBox38.TabStop = false;
-            this.pictureBox38.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox38.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox39
             // 
@@ -935,8 +858,6 @@
             this.pictureBox39.Size = new System.Drawing.Size(10, 104);
             this.pictureBox39.TabIndex = 38;
             this.pictureBox39.TabStop = false;
-            this.pictureBox39.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox39.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox40
             // 
@@ -946,8 +867,6 @@
             this.pictureBox40.Size = new System.Drawing.Size(10, 65);
             this.pictureBox40.TabIndex = 39;
             this.pictureBox40.TabStop = false;
-            this.pictureBox40.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox40.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox41
             // 
@@ -957,8 +876,6 @@
             this.pictureBox41.Size = new System.Drawing.Size(102, 11);
             this.pictureBox41.TabIndex = 40;
             this.pictureBox41.TabStop = false;
-            this.pictureBox41.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox41.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox42
             // 
@@ -968,8 +885,6 @@
             this.pictureBox42.Size = new System.Drawing.Size(34, 10);
             this.pictureBox42.TabIndex = 41;
             this.pictureBox42.TabStop = false;
-            this.pictureBox42.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox42.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox43
             // 
@@ -979,8 +894,6 @@
             this.pictureBox43.Size = new System.Drawing.Size(43, 10);
             this.pictureBox43.TabIndex = 42;
             this.pictureBox43.TabStop = false;
-            this.pictureBox43.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox43.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox44
             // 
@@ -990,8 +903,6 @@
             this.pictureBox44.Size = new System.Drawing.Size(40, 10);
             this.pictureBox44.TabIndex = 43;
             this.pictureBox44.TabStop = false;
-            this.pictureBox44.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox44.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox45
             // 
@@ -1001,8 +912,6 @@
             this.pictureBox45.Size = new System.Drawing.Size(10, 45);
             this.pictureBox45.TabIndex = 44;
             this.pictureBox45.TabStop = false;
-            this.pictureBox45.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox45.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox46
             // 
@@ -1012,8 +921,6 @@
             this.pictureBox46.Size = new System.Drawing.Size(60, 10);
             this.pictureBox46.TabIndex = 45;
             this.pictureBox46.TabStop = false;
-            this.pictureBox46.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox46.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox47
             // 
@@ -1023,8 +930,6 @@
             this.pictureBox47.Size = new System.Drawing.Size(75, 10);
             this.pictureBox47.TabIndex = 46;
             this.pictureBox47.TabStop = false;
-            this.pictureBox47.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox47.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox48
             // 
@@ -1034,8 +939,6 @@
             this.pictureBox48.Size = new System.Drawing.Size(10, 128);
             this.pictureBox48.TabIndex = 47;
             this.pictureBox48.TabStop = false;
-            this.pictureBox48.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox48.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox49
             // 
@@ -1045,8 +948,6 @@
             this.pictureBox49.Size = new System.Drawing.Size(71, 10);
             this.pictureBox49.TabIndex = 48;
             this.pictureBox49.TabStop = false;
-            this.pictureBox49.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox49.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox50
             // 
@@ -1056,8 +957,6 @@
             this.pictureBox50.Size = new System.Drawing.Size(10, 157);
             this.pictureBox50.TabIndex = 49;
             this.pictureBox50.TabStop = false;
-            this.pictureBox50.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox50.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox51
             // 
@@ -1067,8 +966,6 @@
             this.pictureBox51.Size = new System.Drawing.Size(10, 285);
             this.pictureBox51.TabIndex = 50;
             this.pictureBox51.TabStop = false;
-            this.pictureBox51.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox51.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox52
             // 
@@ -1078,8 +975,6 @@
             this.pictureBox52.Size = new System.Drawing.Size(10, 65);
             this.pictureBox52.TabIndex = 51;
             this.pictureBox52.TabStop = false;
-            this.pictureBox52.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox52.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox53
             // 
@@ -1089,8 +984,6 @@
             this.pictureBox53.Size = new System.Drawing.Size(10, 127);
             this.pictureBox53.TabIndex = 52;
             this.pictureBox53.TabStop = false;
-            this.pictureBox53.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox53.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox54
             // 
@@ -1100,8 +993,6 @@
             this.pictureBox54.Size = new System.Drawing.Size(10, 42);
             this.pictureBox54.TabIndex = 53;
             this.pictureBox54.TabStop = false;
-            this.pictureBox54.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox54.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox55
             // 
@@ -1111,8 +1002,6 @@
             this.pictureBox55.Size = new System.Drawing.Size(10, 47);
             this.pictureBox55.TabIndex = 54;
             this.pictureBox55.TabStop = false;
-            this.pictureBox55.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox55.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox56
             // 
@@ -1122,8 +1011,6 @@
             this.pictureBox56.Size = new System.Drawing.Size(39, 10);
             this.pictureBox56.TabIndex = 55;
             this.pictureBox56.TabStop = false;
-            this.pictureBox56.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox56.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox57
             // 
@@ -1133,8 +1020,6 @@
             this.pictureBox57.Size = new System.Drawing.Size(70, 10);
             this.pictureBox57.TabIndex = 56;
             this.pictureBox57.TabStop = false;
-            this.pictureBox57.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox57.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox58
             // 
@@ -1144,8 +1029,6 @@
             this.pictureBox58.Size = new System.Drawing.Size(10, 37);
             this.pictureBox58.TabIndex = 57;
             this.pictureBox58.TabStop = false;
-            this.pictureBox58.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox58.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox59
             // 
@@ -1155,8 +1038,6 @@
             this.pictureBox59.Size = new System.Drawing.Size(43, 10);
             this.pictureBox59.TabIndex = 58;
             this.pictureBox59.TabStop = false;
-            this.pictureBox59.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox59.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox60
             // 
@@ -1166,8 +1047,6 @@
             this.pictureBox60.Size = new System.Drawing.Size(40, 10);
             this.pictureBox60.TabIndex = 59;
             this.pictureBox60.TabStop = false;
-            this.pictureBox60.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox60.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox61
             // 
@@ -1177,8 +1056,6 @@
             this.pictureBox61.Size = new System.Drawing.Size(71, 10);
             this.pictureBox61.TabIndex = 60;
             this.pictureBox61.TabStop = false;
-            this.pictureBox61.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox61.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox62
             // 
@@ -1188,8 +1065,6 @@
             this.pictureBox62.Size = new System.Drawing.Size(132, 11);
             this.pictureBox62.TabIndex = 61;
             this.pictureBox62.TabStop = false;
-            this.pictureBox62.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox62.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox63
             // 
@@ -1199,8 +1074,6 @@
             this.pictureBox63.Size = new System.Drawing.Size(103, 10);
             this.pictureBox63.TabIndex = 62;
             this.pictureBox63.TabStop = false;
-            this.pictureBox63.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox63.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox64
             // 
@@ -1210,8 +1083,6 @@
             this.pictureBox64.Size = new System.Drawing.Size(10, 35);
             this.pictureBox64.TabIndex = 63;
             this.pictureBox64.TabStop = false;
-            this.pictureBox64.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox64.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox65
             // 
@@ -1221,8 +1092,6 @@
             this.pictureBox65.Size = new System.Drawing.Size(103, 10);
             this.pictureBox65.TabIndex = 64;
             this.pictureBox65.TabStop = false;
-            this.pictureBox65.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox65.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox66
             // 
@@ -1232,8 +1101,6 @@
             this.pictureBox66.Size = new System.Drawing.Size(10, 35);
             this.pictureBox66.TabIndex = 65;
             this.pictureBox66.TabStop = false;
-            this.pictureBox66.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox66.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox67
             // 
@@ -1243,8 +1110,6 @@
             this.pictureBox67.Size = new System.Drawing.Size(64, 10);
             this.pictureBox67.TabIndex = 66;
             this.pictureBox67.TabStop = false;
-            this.pictureBox67.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox67.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox68
             // 
@@ -1254,8 +1119,6 @@
             this.pictureBox68.Size = new System.Drawing.Size(10, 71);
             this.pictureBox68.TabIndex = 67;
             this.pictureBox68.TabStop = false;
-            this.pictureBox68.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox68.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox69
             // 
@@ -1265,8 +1128,6 @@
             this.pictureBox69.Size = new System.Drawing.Size(75, 10);
             this.pictureBox69.TabIndex = 68;
             this.pictureBox69.TabStop = false;
-            this.pictureBox69.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox69.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox70
             // 
@@ -1276,8 +1137,6 @@
             this.pictureBox70.Size = new System.Drawing.Size(62, 10);
             this.pictureBox70.TabIndex = 69;
             this.pictureBox70.TabStop = false;
-            this.pictureBox70.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox70.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox71
             // 
@@ -1287,8 +1146,6 @@
             this.pictureBox71.Size = new System.Drawing.Size(10, 41);
             this.pictureBox71.TabIndex = 70;
             this.pictureBox71.TabStop = false;
-            this.pictureBox71.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox71.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox72
             // 
@@ -1298,8 +1155,6 @@
             this.pictureBox72.Size = new System.Drawing.Size(65, 11);
             this.pictureBox72.TabIndex = 71;
             this.pictureBox72.TabStop = false;
-            this.pictureBox72.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox72.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox73
             // 
@@ -1309,8 +1164,6 @@
             this.pictureBox73.Size = new System.Drawing.Size(10, 42);
             this.pictureBox73.TabIndex = 72;
             this.pictureBox73.TabStop = false;
-            this.pictureBox73.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox73.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox74
             // 
@@ -1320,8 +1173,6 @@
             this.pictureBox74.Size = new System.Drawing.Size(66, 10);
             this.pictureBox74.TabIndex = 73;
             this.pictureBox74.TabStop = false;
-            this.pictureBox74.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox74.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox75
             // 
@@ -1331,8 +1182,6 @@
             this.pictureBox75.Size = new System.Drawing.Size(75, 10);
             this.pictureBox75.TabIndex = 74;
             this.pictureBox75.TabStop = false;
-            this.pictureBox75.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox75.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox76
             // 
@@ -1342,8 +1191,6 @@
             this.pictureBox76.Size = new System.Drawing.Size(10, 26);
             this.pictureBox76.TabIndex = 75;
             this.pictureBox76.TabStop = false;
-            this.pictureBox76.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox76.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox77
             // 
@@ -1353,8 +1200,6 @@
             this.pictureBox77.Size = new System.Drawing.Size(71, 10);
             this.pictureBox77.TabIndex = 76;
             this.pictureBox77.TabStop = false;
-            this.pictureBox77.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox77.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox78
             // 
@@ -1364,8 +1209,6 @@
             this.pictureBox78.Size = new System.Drawing.Size(10, 45);
             this.pictureBox78.TabIndex = 77;
             this.pictureBox78.TabStop = false;
-            this.pictureBox78.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox78.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox79
             // 
@@ -1375,8 +1218,6 @@
             this.pictureBox79.Size = new System.Drawing.Size(166, 11);
             this.pictureBox79.TabIndex = 78;
             this.pictureBox79.TabStop = false;
-            this.pictureBox79.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox79.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox80
             // 
@@ -1386,8 +1227,6 @@
             this.pictureBox80.Size = new System.Drawing.Size(10, 162);
             this.pictureBox80.TabIndex = 79;
             this.pictureBox80.TabStop = false;
-            this.pictureBox80.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox80.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox81
             // 
@@ -1397,8 +1236,6 @@
             this.pictureBox81.Size = new System.Drawing.Size(10, 57);
             this.pictureBox81.TabIndex = 80;
             this.pictureBox81.TabStop = false;
-            this.pictureBox81.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox81.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox82
             // 
@@ -1408,8 +1245,6 @@
             this.pictureBox82.Size = new System.Drawing.Size(72, 10);
             this.pictureBox82.TabIndex = 81;
             this.pictureBox82.TabStop = false;
-            this.pictureBox82.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox82.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox83
             // 
@@ -1419,8 +1254,6 @@
             this.pictureBox83.Size = new System.Drawing.Size(10, 37);
             this.pictureBox83.TabIndex = 82;
             this.pictureBox83.TabStop = false;
-            this.pictureBox83.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox83.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox84
             // 
@@ -1430,8 +1263,6 @@
             this.pictureBox84.Size = new System.Drawing.Size(100, 10);
             this.pictureBox84.TabIndex = 83;
             this.pictureBox84.TabStop = false;
-            this.pictureBox84.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox84.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox85
             // 
@@ -1441,8 +1272,6 @@
             this.pictureBox85.Size = new System.Drawing.Size(10, 37);
             this.pictureBox85.TabIndex = 84;
             this.pictureBox85.TabStop = false;
-            this.pictureBox85.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox85.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox86
             // 
@@ -1452,8 +1281,6 @@
             this.pictureBox86.Size = new System.Drawing.Size(287, 10);
             this.pictureBox86.TabIndex = 85;
             this.pictureBox86.TabStop = false;
-            this.pictureBox86.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox86.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox87
             // 
@@ -1463,8 +1290,6 @@
             this.pictureBox87.Size = new System.Drawing.Size(10, 78);
             this.pictureBox87.TabIndex = 86;
             this.pictureBox87.TabStop = false;
-            this.pictureBox87.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox87.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox88
             // 
@@ -1474,8 +1299,6 @@
             this.pictureBox88.Size = new System.Drawing.Size(40, 11);
             this.pictureBox88.TabIndex = 87;
             this.pictureBox88.TabStop = false;
-            this.pictureBox88.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox88.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox89
             // 
@@ -1485,8 +1308,6 @@
             this.pictureBox89.Size = new System.Drawing.Size(12, 40);
             this.pictureBox89.TabIndex = 88;
             this.pictureBox89.TabStop = false;
-            this.pictureBox89.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox89.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox90
             // 
@@ -1496,8 +1317,6 @@
             this.pictureBox90.Size = new System.Drawing.Size(30, 13);
             this.pictureBox90.TabIndex = 89;
             this.pictureBox90.TabStop = false;
-            this.pictureBox90.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox90.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox91
             // 
@@ -1507,8 +1326,6 @@
             this.pictureBox91.Size = new System.Drawing.Size(11, 37);
             this.pictureBox91.TabIndex = 90;
             this.pictureBox91.TabStop = false;
-            this.pictureBox91.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox91.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox92
             // 
@@ -1518,8 +1335,6 @@
             this.pictureBox92.Size = new System.Drawing.Size(376, 10);
             this.pictureBox92.TabIndex = 91;
             this.pictureBox92.TabStop = false;
-            this.pictureBox92.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox92.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox93
             // 
@@ -1529,8 +1344,6 @@
             this.pictureBox93.Size = new System.Drawing.Size(10, 47);
             this.pictureBox93.TabIndex = 92;
             this.pictureBox93.TabStop = false;
-            this.pictureBox93.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox93.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox94
             // 
@@ -1540,8 +1353,6 @@
             this.pictureBox94.Size = new System.Drawing.Size(10, 47);
             this.pictureBox94.TabIndex = 93;
             this.pictureBox94.TabStop = false;
-            this.pictureBox94.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox94.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox95
             // 
@@ -1551,8 +1362,6 @@
             this.pictureBox95.Size = new System.Drawing.Size(132, 10);
             this.pictureBox95.TabIndex = 94;
             this.pictureBox95.TabStop = false;
-            this.pictureBox95.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox95.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox96
             // 
@@ -1562,8 +1371,6 @@
             this.pictureBox96.Size = new System.Drawing.Size(10, 42);
             this.pictureBox96.TabIndex = 95;
             this.pictureBox96.TabStop = false;
-            this.pictureBox96.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox96.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox97
             // 
@@ -1573,8 +1380,6 @@
             this.pictureBox97.Size = new System.Drawing.Size(199, 10);
             this.pictureBox97.TabIndex = 96;
             this.pictureBox97.TabStop = false;
-            this.pictureBox97.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox97.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox98
             // 
@@ -1584,8 +1389,6 @@
             this.pictureBox98.Size = new System.Drawing.Size(194, 10);
             this.pictureBox98.TabIndex = 97;
             this.pictureBox98.TabStop = false;
-            this.pictureBox98.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox98.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox99
             // 
@@ -1595,8 +1398,6 @@
             this.pictureBox99.Size = new System.Drawing.Size(195, 10);
             this.pictureBox99.TabIndex = 98;
             this.pictureBox99.TabStop = false;
-            this.pictureBox99.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox99.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox100
             // 
@@ -1606,8 +1407,6 @@
             this.pictureBox100.Size = new System.Drawing.Size(194, 11);
             this.pictureBox100.TabIndex = 99;
             this.pictureBox100.TabStop = false;
-            this.pictureBox100.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox100.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox101
             // 
@@ -1617,8 +1416,6 @@
             this.pictureBox101.Size = new System.Drawing.Size(10, 135);
             this.pictureBox101.TabIndex = 100;
             this.pictureBox101.TabStop = false;
-            this.pictureBox101.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox101.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox102
             // 
@@ -1628,8 +1425,6 @@
             this.pictureBox102.Size = new System.Drawing.Size(102, 10);
             this.pictureBox102.TabIndex = 101;
             this.pictureBox102.TabStop = false;
-            this.pictureBox102.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox102.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox103
             // 
@@ -1639,8 +1434,6 @@
             this.pictureBox103.Size = new System.Drawing.Size(102, 10);
             this.pictureBox103.TabIndex = 102;
             this.pictureBox103.TabStop = false;
-            this.pictureBox103.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox103.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox104
             // 
@@ -1650,8 +1443,6 @@
             this.pictureBox104.Size = new System.Drawing.Size(102, 10);
             this.pictureBox104.TabIndex = 103;
             this.pictureBox104.TabStop = false;
-            this.pictureBox104.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox104.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox105
             // 
@@ -1661,8 +1452,6 @@
             this.pictureBox105.Size = new System.Drawing.Size(166, 10);
             this.pictureBox105.TabIndex = 104;
             this.pictureBox105.TabStop = false;
-            this.pictureBox105.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox105.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox106
             // 
@@ -1672,8 +1461,6 @@
             this.pictureBox106.Size = new System.Drawing.Size(154, 10);
             this.pictureBox106.TabIndex = 105;
             this.pictureBox106.TabStop = false;
-            this.pictureBox106.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox106.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox107
             // 
@@ -1683,8 +1470,6 @@
             this.pictureBox107.Size = new System.Drawing.Size(10, 65);
             this.pictureBox107.TabIndex = 106;
             this.pictureBox107.TabStop = false;
-            this.pictureBox107.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox107.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox108
             // 
@@ -1694,8 +1479,6 @@
             this.pictureBox108.Size = new System.Drawing.Size(168, 10);
             this.pictureBox108.TabIndex = 107;
             this.pictureBox108.TabStop = false;
-            this.pictureBox108.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox108.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox109
             // 
@@ -1705,8 +1488,6 @@
             this.pictureBox109.Size = new System.Drawing.Size(10, 75);
             this.pictureBox109.TabIndex = 108;
             this.pictureBox109.TabStop = false;
-            this.pictureBox109.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox109.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox110
             // 
@@ -1716,8 +1497,6 @@
             this.pictureBox110.Size = new System.Drawing.Size(102, 10);
             this.pictureBox110.TabIndex = 109;
             this.pictureBox110.TabStop = false;
-            this.pictureBox110.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox110.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox111
             // 
@@ -1727,8 +1506,6 @@
             this.pictureBox111.Size = new System.Drawing.Size(10, 42);
             this.pictureBox111.TabIndex = 110;
             this.pictureBox111.TabStop = false;
-            this.pictureBox111.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox111.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox112
             // 
@@ -1738,8 +1515,6 @@
             this.pictureBox112.Size = new System.Drawing.Size(100, 10);
             this.pictureBox112.TabIndex = 111;
             this.pictureBox112.TabStop = false;
-            this.pictureBox112.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox112.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox113
             // 
@@ -1749,8 +1524,6 @@
             this.pictureBox113.Size = new System.Drawing.Size(10, 69);
             this.pictureBox113.TabIndex = 112;
             this.pictureBox113.TabStop = false;
-            this.pictureBox113.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox113.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox114
             // 
@@ -1760,8 +1533,6 @@
             this.pictureBox114.Size = new System.Drawing.Size(75, 10);
             this.pictureBox114.TabIndex = 113;
             this.pictureBox114.TabStop = false;
-            this.pictureBox114.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox114.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox115
             // 
@@ -1771,8 +1542,6 @@
             this.pictureBox115.Size = new System.Drawing.Size(10, 106);
             this.pictureBox115.TabIndex = 114;
             this.pictureBox115.TabStop = false;
-            this.pictureBox115.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox115.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox116
             // 
@@ -1782,8 +1551,6 @@
             this.pictureBox116.Size = new System.Drawing.Size(10, 38);
             this.pictureBox116.TabIndex = 115;
             this.pictureBox116.TabStop = false;
-            this.pictureBox116.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox116.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox117
             // 
@@ -1793,8 +1560,6 @@
             this.pictureBox117.Size = new System.Drawing.Size(76, 10);
             this.pictureBox117.TabIndex = 116;
             this.pictureBox117.TabStop = false;
-            this.pictureBox117.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox117.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox118
             // 
@@ -1804,19 +1569,15 @@
             this.pictureBox118.Size = new System.Drawing.Size(133, 10);
             this.pictureBox118.TabIndex = 117;
             this.pictureBox118.TabStop = false;
-            this.pictureBox118.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox118.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox119
             // 
             this.pictureBox119.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.pictureBox119.Location = new System.Drawing.Point(510, 191);
             this.pictureBox119.Name = "pictureBox119";
-            this.pictureBox119.Size = new System.Drawing.Size(10, 47);
+            this.pictureBox119.Size = new System.Drawing.Size(10, 40);
             this.pictureBox119.TabIndex = 118;
             this.pictureBox119.TabStop = false;
-            this.pictureBox119.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox119.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox120
             // 
@@ -1826,8 +1587,6 @@
             this.pictureBox120.Size = new System.Drawing.Size(34, 10);
             this.pictureBox120.TabIndex = 119;
             this.pictureBox120.TabStop = false;
-            this.pictureBox120.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox120.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox121
             // 
@@ -1837,8 +1596,6 @@
             this.pictureBox121.Size = new System.Drawing.Size(10, 72);
             this.pictureBox121.TabIndex = 120;
             this.pictureBox121.TabStop = false;
-            this.pictureBox121.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox121.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox122
             // 
@@ -1848,8 +1605,6 @@
             this.pictureBox122.Size = new System.Drawing.Size(124, 10);
             this.pictureBox122.TabIndex = 121;
             this.pictureBox122.TabStop = false;
-            this.pictureBox122.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox122.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox123
             // 
@@ -1859,8 +1614,6 @@
             this.pictureBox123.Size = new System.Drawing.Size(10, 47);
             this.pictureBox123.TabIndex = 122;
             this.pictureBox123.TabStop = false;
-            this.pictureBox123.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox123.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox124
             // 
@@ -1870,8 +1623,6 @@
             this.pictureBox124.Size = new System.Drawing.Size(74, 12);
             this.pictureBox124.TabIndex = 123;
             this.pictureBox124.TabStop = false;
-            this.pictureBox124.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox124.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox125
             // 
@@ -1881,8 +1632,6 @@
             this.pictureBox125.Size = new System.Drawing.Size(211, 10);
             this.pictureBox125.TabIndex = 124;
             this.pictureBox125.TabStop = false;
-            this.pictureBox125.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox125.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox126
             // 
@@ -1892,8 +1641,6 @@
             this.pictureBox126.Size = new System.Drawing.Size(10, 67);
             this.pictureBox126.TabIndex = 125;
             this.pictureBox126.TabStop = false;
-            this.pictureBox126.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox126.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox127
             // 
@@ -1903,8 +1650,6 @@
             this.pictureBox127.Size = new System.Drawing.Size(158, 10);
             this.pictureBox127.TabIndex = 126;
             this.pictureBox127.TabStop = false;
-            this.pictureBox127.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox127.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox128
             // 
@@ -1914,8 +1659,6 @@
             this.pictureBox128.Size = new System.Drawing.Size(165, 10);
             this.pictureBox128.TabIndex = 127;
             this.pictureBox128.TabStop = false;
-            this.pictureBox128.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox128.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox129
             // 
@@ -1925,8 +1668,6 @@
             this.pictureBox129.Size = new System.Drawing.Size(222, 10);
             this.pictureBox129.TabIndex = 128;
             this.pictureBox129.TabStop = false;
-            this.pictureBox129.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox129.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox130
             // 
@@ -1936,8 +1677,6 @@
             this.pictureBox130.Size = new System.Drawing.Size(10, 76);
             this.pictureBox130.TabIndex = 129;
             this.pictureBox130.TabStop = false;
-            this.pictureBox130.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox130.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox131
             // 
@@ -1947,8 +1686,6 @@
             this.pictureBox131.Size = new System.Drawing.Size(99, 10);
             this.pictureBox131.TabIndex = 130;
             this.pictureBox131.TabStop = false;
-            this.pictureBox131.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox131.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox132
             // 
@@ -1958,8 +1695,6 @@
             this.pictureBox132.Size = new System.Drawing.Size(42, 10);
             this.pictureBox132.TabIndex = 131;
             this.pictureBox132.TabStop = false;
-            this.pictureBox132.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox132.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox133
             // 
@@ -1969,8 +1704,6 @@
             this.pictureBox133.Size = new System.Drawing.Size(10, 42);
             this.pictureBox133.TabIndex = 132;
             this.pictureBox133.TabStop = false;
-            this.pictureBox133.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox133.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox134
             // 
@@ -1980,8 +1713,6 @@
             this.pictureBox134.Size = new System.Drawing.Size(25, 10);
             this.pictureBox134.TabIndex = 133;
             this.pictureBox134.TabStop = false;
-            this.pictureBox134.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox134.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox135
             // 
@@ -1991,8 +1722,6 @@
             this.pictureBox135.Size = new System.Drawing.Size(10, 188);
             this.pictureBox135.TabIndex = 134;
             this.pictureBox135.TabStop = false;
-            this.pictureBox135.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox135.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox136
             // 
@@ -2002,8 +1731,6 @@
             this.pictureBox136.Size = new System.Drawing.Size(34, 10);
             this.pictureBox136.TabIndex = 135;
             this.pictureBox136.TabStop = false;
-            this.pictureBox136.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox136.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox137
             // 
@@ -2013,8 +1740,6 @@
             this.pictureBox137.Size = new System.Drawing.Size(10, 36);
             this.pictureBox137.TabIndex = 136;
             this.pictureBox137.TabStop = false;
-            this.pictureBox137.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox137.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox138
             // 
@@ -2024,8 +1749,6 @@
             this.pictureBox138.Size = new System.Drawing.Size(39, 10);
             this.pictureBox138.TabIndex = 137;
             this.pictureBox138.TabStop = false;
-            this.pictureBox138.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox138.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox139
             // 
@@ -2035,8 +1758,6 @@
             this.pictureBox139.Size = new System.Drawing.Size(10, 102);
             this.pictureBox139.TabIndex = 138;
             this.pictureBox139.TabStop = false;
-            this.pictureBox139.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox139.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox140
             // 
@@ -2046,8 +1767,6 @@
             this.pictureBox140.Size = new System.Drawing.Size(126, 10);
             this.pictureBox140.TabIndex = 139;
             this.pictureBox140.TabStop = false;
-            this.pictureBox140.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox140.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox141
             // 
@@ -2057,8 +1776,6 @@
             this.pictureBox141.Size = new System.Drawing.Size(33, 12);
             this.pictureBox141.TabIndex = 140;
             this.pictureBox141.TabStop = false;
-            this.pictureBox141.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox141.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox142
             // 
@@ -2068,8 +1785,6 @@
             this.pictureBox142.Size = new System.Drawing.Size(10, 64);
             this.pictureBox142.TabIndex = 141;
             this.pictureBox142.TabStop = false;
-            this.pictureBox142.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox142.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox143
             // 
@@ -2079,8 +1794,6 @@
             this.pictureBox143.Size = new System.Drawing.Size(164, 10);
             this.pictureBox143.TabIndex = 142;
             this.pictureBox143.TabStop = false;
-            this.pictureBox143.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox143.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox144
             // 
@@ -2090,8 +1803,6 @@
             this.pictureBox144.Size = new System.Drawing.Size(10, 67);
             this.pictureBox144.TabIndex = 143;
             this.pictureBox144.TabStop = false;
-            this.pictureBox144.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox144.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox145
             // 
@@ -2101,8 +1812,6 @@
             this.pictureBox145.Size = new System.Drawing.Size(40, 10);
             this.pictureBox145.TabIndex = 144;
             this.pictureBox145.TabStop = false;
-            this.pictureBox145.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox145.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox146
             // 
@@ -2112,8 +1821,6 @@
             this.pictureBox146.Size = new System.Drawing.Size(10, 105);
             this.pictureBox146.TabIndex = 145;
             this.pictureBox146.TabStop = false;
-            this.pictureBox146.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox146.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox147
             // 
@@ -2123,8 +1830,6 @@
             this.pictureBox147.Size = new System.Drawing.Size(107, 10);
             this.pictureBox147.TabIndex = 146;
             this.pictureBox147.TabStop = false;
-            this.pictureBox147.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox147.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox148
             // 
@@ -2134,8 +1839,6 @@
             this.pictureBox148.Size = new System.Drawing.Size(75, 10);
             this.pictureBox148.TabIndex = 147;
             this.pictureBox148.TabStop = false;
-            this.pictureBox148.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox148.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox149
             // 
@@ -2145,8 +1848,6 @@
             this.pictureBox149.Size = new System.Drawing.Size(40, 10);
             this.pictureBox149.TabIndex = 148;
             this.pictureBox149.TabStop = false;
-            this.pictureBox149.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox149.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox150
             // 
@@ -2156,8 +1857,6 @@
             this.pictureBox150.Size = new System.Drawing.Size(46, 10);
             this.pictureBox150.TabIndex = 149;
             this.pictureBox150.TabStop = false;
-            this.pictureBox150.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox150.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox151
             // 
@@ -2167,8 +1866,6 @@
             this.pictureBox151.Size = new System.Drawing.Size(39, 11);
             this.pictureBox151.TabIndex = 150;
             this.pictureBox151.TabStop = false;
-            this.pictureBox151.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox151.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox152
             // 
@@ -2178,8 +1875,6 @@
             this.pictureBox152.Size = new System.Drawing.Size(72, 10);
             this.pictureBox152.TabIndex = 151;
             this.pictureBox152.TabStop = false;
-            this.pictureBox152.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox152.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox153
             // 
@@ -2189,8 +1884,6 @@
             this.pictureBox153.Size = new System.Drawing.Size(74, 10);
             this.pictureBox153.TabIndex = 152;
             this.pictureBox153.TabStop = false;
-            this.pictureBox153.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox153.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox154
             // 
@@ -2200,8 +1893,6 @@
             this.pictureBox154.Size = new System.Drawing.Size(12, 70);
             this.pictureBox154.TabIndex = 153;
             this.pictureBox154.TabStop = false;
-            this.pictureBox154.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox154.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox155
             // 
@@ -2211,8 +1902,6 @@
             this.pictureBox155.Size = new System.Drawing.Size(74, 11);
             this.pictureBox155.TabIndex = 154;
             this.pictureBox155.TabStop = false;
-            this.pictureBox155.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox155.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox156
             // 
@@ -2222,8 +1911,6 @@
             this.pictureBox156.Size = new System.Drawing.Size(10, 37);
             this.pictureBox156.TabIndex = 155;
             this.pictureBox156.TabStop = false;
-            this.pictureBox156.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox156.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox157
             // 
@@ -2233,8 +1920,6 @@
             this.pictureBox157.Size = new System.Drawing.Size(42, 10);
             this.pictureBox157.TabIndex = 156;
             this.pictureBox157.TabStop = false;
-            this.pictureBox157.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox157.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox158
             // 
@@ -2244,8 +1929,6 @@
             this.pictureBox158.Size = new System.Drawing.Size(10, 68);
             this.pictureBox158.TabIndex = 157;
             this.pictureBox158.TabStop = false;
-            this.pictureBox158.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox158.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox159
             // 
@@ -2255,8 +1938,6 @@
             this.pictureBox159.Size = new System.Drawing.Size(10, 69);
             this.pictureBox159.TabIndex = 158;
             this.pictureBox159.TabStop = false;
-            this.pictureBox159.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox159.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox160
             // 
@@ -2266,8 +1947,6 @@
             this.pictureBox160.Size = new System.Drawing.Size(40, 10);
             this.pictureBox160.TabIndex = 159;
             this.pictureBox160.TabStop = false;
-            this.pictureBox160.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox160.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox161
             // 
@@ -2277,8 +1956,6 @@
             this.pictureBox161.Size = new System.Drawing.Size(10, 72);
             this.pictureBox161.TabIndex = 160;
             this.pictureBox161.TabStop = false;
-            this.pictureBox161.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox161.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox162
             // 
@@ -2288,8 +1965,6 @@
             this.pictureBox162.Size = new System.Drawing.Size(132, 10);
             this.pictureBox162.TabIndex = 161;
             this.pictureBox162.TabStop = false;
-            this.pictureBox162.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox162.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox163
             // 
@@ -2299,8 +1974,6 @@
             this.pictureBox163.Size = new System.Drawing.Size(10, 40);
             this.pictureBox163.TabIndex = 162;
             this.pictureBox163.TabStop = false;
-            this.pictureBox163.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox163.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox164
             // 
@@ -2310,8 +1983,6 @@
             this.pictureBox164.Size = new System.Drawing.Size(41, 10);
             this.pictureBox164.TabIndex = 163;
             this.pictureBox164.TabStop = false;
-            this.pictureBox164.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox164.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox165
             // 
@@ -2321,8 +1992,6 @@
             this.pictureBox165.Size = new System.Drawing.Size(10, 44);
             this.pictureBox165.TabIndex = 164;
             this.pictureBox165.TabStop = false;
-            this.pictureBox165.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox165.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox166
             // 
@@ -2332,8 +2001,6 @@
             this.pictureBox166.Size = new System.Drawing.Size(100, 10);
             this.pictureBox166.TabIndex = 165;
             this.pictureBox166.TabStop = false;
-            this.pictureBox166.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox166.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox167
             // 
@@ -2343,8 +2010,6 @@
             this.pictureBox167.Size = new System.Drawing.Size(10, 101);
             this.pictureBox167.TabIndex = 166;
             this.pictureBox167.TabStop = false;
-            this.pictureBox167.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox167.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox168
             // 
@@ -2354,8 +2019,6 @@
             this.pictureBox168.Size = new System.Drawing.Size(36, 10);
             this.pictureBox168.TabIndex = 167;
             this.pictureBox168.TabStop = false;
-            this.pictureBox168.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox168.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox169
             // 
@@ -2365,8 +2028,6 @@
             this.pictureBox169.Size = new System.Drawing.Size(10, 68);
             this.pictureBox169.TabIndex = 168;
             this.pictureBox169.TabStop = false;
-            this.pictureBox169.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox169.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox170
             // 
@@ -2376,8 +2037,6 @@
             this.pictureBox170.Size = new System.Drawing.Size(10, 40);
             this.pictureBox170.TabIndex = 169;
             this.pictureBox170.TabStop = false;
-            this.pictureBox170.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox170.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox171
             // 
@@ -2387,8 +2046,6 @@
             this.pictureBox171.Size = new System.Drawing.Size(42, 10);
             this.pictureBox171.TabIndex = 170;
             this.pictureBox171.TabStop = false;
-            this.pictureBox171.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox171.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox172
             // 
@@ -2398,8 +2055,6 @@
             this.pictureBox172.Size = new System.Drawing.Size(10, 63);
             this.pictureBox172.TabIndex = 171;
             this.pictureBox172.TabStop = false;
-            this.pictureBox172.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox172.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox173
             // 
@@ -2409,8 +2064,6 @@
             this.pictureBox173.Size = new System.Drawing.Size(125, 10);
             this.pictureBox173.TabIndex = 172;
             this.pictureBox173.TabStop = false;
-            this.pictureBox173.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox173.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox174
             // 
@@ -2420,8 +2073,6 @@
             this.pictureBox174.Size = new System.Drawing.Size(43, 11);
             this.pictureBox174.TabIndex = 173;
             this.pictureBox174.TabStop = false;
-            this.pictureBox174.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox174.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox175
             // 
@@ -2431,8 +2082,6 @@
             this.pictureBox175.Size = new System.Drawing.Size(11, 73);
             this.pictureBox175.TabIndex = 174;
             this.pictureBox175.TabStop = false;
-            this.pictureBox175.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox175.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox176
             // 
@@ -2442,8 +2091,6 @@
             this.pictureBox176.Size = new System.Drawing.Size(70, 10);
             this.pictureBox176.TabIndex = 175;
             this.pictureBox176.TabStop = false;
-            this.pictureBox176.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox176.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox177
             // 
@@ -2453,8 +2100,6 @@
             this.pictureBox177.Size = new System.Drawing.Size(10, 103);
             this.pictureBox177.TabIndex = 176;
             this.pictureBox177.TabStop = false;
-            this.pictureBox177.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox177.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox178
             // 
@@ -2464,8 +2109,6 @@
             this.pictureBox178.Size = new System.Drawing.Size(44, 10);
             this.pictureBox178.TabIndex = 177;
             this.pictureBox178.TabStop = false;
-            this.pictureBox178.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox178.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox179
             // 
@@ -2475,8 +2118,6 @@
             this.pictureBox179.Size = new System.Drawing.Size(10, 73);
             this.pictureBox179.TabIndex = 178;
             this.pictureBox179.TabStop = false;
-            this.pictureBox179.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox179.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox180
             // 
@@ -2486,8 +2127,6 @@
             this.pictureBox180.Size = new System.Drawing.Size(34, 10);
             this.pictureBox180.TabIndex = 179;
             this.pictureBox180.TabStop = false;
-            this.pictureBox180.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox180.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox181
             // 
@@ -2497,8 +2136,6 @@
             this.pictureBox181.Size = new System.Drawing.Size(40, 11);
             this.pictureBox181.TabIndex = 180;
             this.pictureBox181.TabStop = false;
-            this.pictureBox181.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox181.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox182
             // 
@@ -2508,8 +2145,6 @@
             this.pictureBox182.Size = new System.Drawing.Size(30, 10);
             this.pictureBox182.TabIndex = 181;
             this.pictureBox182.TabStop = false;
-            this.pictureBox182.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox182.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox183
             // 
@@ -2519,8 +2154,6 @@
             this.pictureBox183.Size = new System.Drawing.Size(37, 12);
             this.pictureBox183.TabIndex = 182;
             this.pictureBox183.TabStop = false;
-            this.pictureBox183.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox183.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox184
             // 
@@ -2530,8 +2163,6 @@
             this.pictureBox184.Size = new System.Drawing.Size(10, 39);
             this.pictureBox184.TabIndex = 183;
             this.pictureBox184.TabStop = false;
-            this.pictureBox184.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox184.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox185
             // 
@@ -2541,8 +2172,6 @@
             this.pictureBox185.Size = new System.Drawing.Size(100, 10);
             this.pictureBox185.TabIndex = 184;
             this.pictureBox185.TabStop = false;
-            this.pictureBox185.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox185.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox186
             // 
@@ -2552,8 +2181,6 @@
             this.pictureBox186.Size = new System.Drawing.Size(10, 192);
             this.pictureBox186.TabIndex = 185;
             this.pictureBox186.TabStop = false;
-            this.pictureBox186.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox186.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox187
             // 
@@ -2563,8 +2190,6 @@
             this.pictureBox187.Size = new System.Drawing.Size(103, 10);
             this.pictureBox187.TabIndex = 186;
             this.pictureBox187.TabStop = false;
-            this.pictureBox187.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox187.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox188
             // 
@@ -2574,8 +2199,6 @@
             this.pictureBox188.Size = new System.Drawing.Size(10, 99);
             this.pictureBox188.TabIndex = 187;
             this.pictureBox188.TabStop = false;
-            this.pictureBox188.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox188.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox189
             // 
@@ -2585,8 +2208,6 @@
             this.pictureBox189.Size = new System.Drawing.Size(99, 10);
             this.pictureBox189.TabIndex = 188;
             this.pictureBox189.TabStop = false;
-            this.pictureBox189.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox189.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox190
             // 
@@ -2596,8 +2217,6 @@
             this.pictureBox190.Size = new System.Drawing.Size(10, 126);
             this.pictureBox190.TabIndex = 189;
             this.pictureBox190.TabStop = false;
-            this.pictureBox190.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox190.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox191
             // 
@@ -2607,8 +2226,6 @@
             this.pictureBox191.Size = new System.Drawing.Size(70, 11);
             this.pictureBox191.TabIndex = 190;
             this.pictureBox191.TabStop = false;
-            this.pictureBox191.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox191.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox192
             // 
@@ -2618,8 +2235,6 @@
             this.pictureBox192.Size = new System.Drawing.Size(11, 258);
             this.pictureBox192.TabIndex = 191;
             this.pictureBox192.TabStop = false;
-            this.pictureBox192.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox192.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox193
             // 
@@ -2629,8 +2244,6 @@
             this.pictureBox193.Size = new System.Drawing.Size(10, 40);
             this.pictureBox193.TabIndex = 192;
             this.pictureBox193.TabStop = false;
-            this.pictureBox193.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox193.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox194
             // 
@@ -2640,8 +2253,6 @@
             this.pictureBox194.Size = new System.Drawing.Size(67, 10);
             this.pictureBox194.TabIndex = 193;
             this.pictureBox194.TabStop = false;
-            this.pictureBox194.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox194.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox195
             // 
@@ -2651,8 +2262,6 @@
             this.pictureBox195.Size = new System.Drawing.Size(10, 42);
             this.pictureBox195.TabIndex = 194;
             this.pictureBox195.TabStop = false;
-            this.pictureBox195.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox195.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox196
             // 
@@ -2662,8 +2271,6 @@
             this.pictureBox196.Size = new System.Drawing.Size(41, 10);
             this.pictureBox196.TabIndex = 195;
             this.pictureBox196.TabStop = false;
-            this.pictureBox196.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox196.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox197
             // 
@@ -2673,8 +2280,6 @@
             this.pictureBox197.Size = new System.Drawing.Size(10, 33);
             this.pictureBox197.TabIndex = 196;
             this.pictureBox197.TabStop = false;
-            this.pictureBox197.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox197.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox198
             // 
@@ -2684,8 +2289,6 @@
             this.pictureBox198.Size = new System.Drawing.Size(10, 66);
             this.pictureBox198.TabIndex = 197;
             this.pictureBox198.TabStop = false;
-            this.pictureBox198.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox198.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox199
             // 
@@ -2695,8 +2298,6 @@
             this.pictureBox199.Size = new System.Drawing.Size(45, 10);
             this.pictureBox199.TabIndex = 198;
             this.pictureBox199.TabStop = false;
-            this.pictureBox199.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox199.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox200
             // 
@@ -2706,8 +2307,6 @@
             this.pictureBox200.Size = new System.Drawing.Size(10, 102);
             this.pictureBox200.TabIndex = 199;
             this.pictureBox200.TabStop = false;
-            this.pictureBox200.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox200.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox201
             // 
@@ -2717,8 +2316,6 @@
             this.pictureBox201.Size = new System.Drawing.Size(130, 10);
             this.pictureBox201.TabIndex = 200;
             this.pictureBox201.TabStop = false;
-            this.pictureBox201.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox201.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox202
             // 
@@ -2728,8 +2325,6 @@
             this.pictureBox202.Size = new System.Drawing.Size(10, 158);
             this.pictureBox202.TabIndex = 201;
             this.pictureBox202.TabStop = false;
-            this.pictureBox202.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox202.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox203
             // 
@@ -2739,8 +2334,6 @@
             this.pictureBox203.Size = new System.Drawing.Size(72, 10);
             this.pictureBox203.TabIndex = 202;
             this.pictureBox203.TabStop = false;
-            this.pictureBox203.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox203.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox204
             // 
@@ -2750,8 +2343,6 @@
             this.pictureBox204.Size = new System.Drawing.Size(10, 95);
             this.pictureBox204.TabIndex = 203;
             this.pictureBox204.TabStop = false;
-            this.pictureBox204.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox204.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox205
             // 
@@ -2761,8 +2352,6 @@
             this.pictureBox205.Size = new System.Drawing.Size(38, 10);
             this.pictureBox205.TabIndex = 204;
             this.pictureBox205.TabStop = false;
-            this.pictureBox205.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox205.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox206
             // 
@@ -2772,8 +2361,6 @@
             this.pictureBox206.Size = new System.Drawing.Size(10, 77);
             this.pictureBox206.TabIndex = 205;
             this.pictureBox206.TabStop = false;
-            this.pictureBox206.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox206.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox207
             // 
@@ -2783,8 +2370,6 @@
             this.pictureBox207.Size = new System.Drawing.Size(42, 10);
             this.pictureBox207.TabIndex = 206;
             this.pictureBox207.TabStop = false;
-            this.pictureBox207.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox207.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox208
             // 
@@ -2794,8 +2379,6 @@
             this.pictureBox208.Size = new System.Drawing.Size(106, 10);
             this.pictureBox208.TabIndex = 207;
             this.pictureBox208.TabStop = false;
-            this.pictureBox208.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox208.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox209
             // 
@@ -2805,8 +2388,6 @@
             this.pictureBox209.Size = new System.Drawing.Size(10, 67);
             this.pictureBox209.TabIndex = 208;
             this.pictureBox209.TabStop = false;
-            this.pictureBox209.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox209.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox210
             // 
@@ -2816,8 +2397,6 @@
             this.pictureBox210.Size = new System.Drawing.Size(39, 10);
             this.pictureBox210.TabIndex = 209;
             this.pictureBox210.TabStop = false;
-            this.pictureBox210.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox210.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox211
             // 
@@ -2827,8 +2406,6 @@
             this.pictureBox211.Size = new System.Drawing.Size(10, 131);
             this.pictureBox211.TabIndex = 210;
             this.pictureBox211.TabStop = false;
-            this.pictureBox211.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox211.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox212
             // 
@@ -2838,8 +2415,6 @@
             this.pictureBox212.Size = new System.Drawing.Size(102, 10);
             this.pictureBox212.TabIndex = 211;
             this.pictureBox212.TabStop = false;
-            this.pictureBox212.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox212.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox213
             // 
@@ -2849,8 +2424,6 @@
             this.pictureBox213.Size = new System.Drawing.Size(10, 183);
             this.pictureBox213.TabIndex = 212;
             this.pictureBox213.TabStop = false;
-            this.pictureBox213.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox213.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox214
             // 
@@ -2860,8 +2433,6 @@
             this.pictureBox214.Size = new System.Drawing.Size(10, 69);
             this.pictureBox214.TabIndex = 213;
             this.pictureBox214.TabStop = false;
-            this.pictureBox214.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox214.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox215
             // 
@@ -2871,8 +2442,6 @@
             this.pictureBox215.Size = new System.Drawing.Size(43, 11);
             this.pictureBox215.TabIndex = 214;
             this.pictureBox215.TabStop = false;
-            this.pictureBox215.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox215.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox216
             // 
@@ -2882,8 +2451,6 @@
             this.pictureBox216.Size = new System.Drawing.Size(10, 40);
             this.pictureBox216.TabIndex = 215;
             this.pictureBox216.TabStop = false;
-            this.pictureBox216.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox216.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox217
             // 
@@ -2893,8 +2460,6 @@
             this.pictureBox217.Size = new System.Drawing.Size(10, 133);
             this.pictureBox217.TabIndex = 216;
             this.pictureBox217.TabStop = false;
-            this.pictureBox217.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox217.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox218
             // 
@@ -2904,8 +2469,6 @@
             this.pictureBox218.Size = new System.Drawing.Size(37, 10);
             this.pictureBox218.TabIndex = 217;
             this.pictureBox218.TabStop = false;
-            this.pictureBox218.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox218.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox219
             // 
@@ -2915,8 +2478,6 @@
             this.pictureBox219.Size = new System.Drawing.Size(10, 41);
             this.pictureBox219.TabIndex = 218;
             this.pictureBox219.TabStop = false;
-            this.pictureBox219.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox219.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox220
             // 
@@ -2926,8 +2487,6 @@
             this.pictureBox220.Size = new System.Drawing.Size(162, 10);
             this.pictureBox220.TabIndex = 219;
             this.pictureBox220.TabStop = false;
-            this.pictureBox220.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox220.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox221
             // 
@@ -2937,8 +2496,6 @@
             this.pictureBox221.Size = new System.Drawing.Size(72, 10);
             this.pictureBox221.TabIndex = 220;
             this.pictureBox221.TabStop = false;
-            this.pictureBox221.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox221.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox222
             // 
@@ -2948,8 +2505,6 @@
             this.pictureBox222.Size = new System.Drawing.Size(10, 155);
             this.pictureBox222.TabIndex = 221;
             this.pictureBox222.TabStop = false;
-            this.pictureBox222.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox222.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox223
             // 
@@ -2959,8 +2514,6 @@
             this.pictureBox223.Size = new System.Drawing.Size(34, 10);
             this.pictureBox223.TabIndex = 222;
             this.pictureBox223.TabStop = false;
-            this.pictureBox223.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox223.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox224
             // 
@@ -2970,8 +2523,6 @@
             this.pictureBox224.Size = new System.Drawing.Size(37, 11);
             this.pictureBox224.TabIndex = 223;
             this.pictureBox224.TabStop = false;
-            this.pictureBox224.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox224.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox225
             // 
@@ -2981,8 +2532,6 @@
             this.pictureBox225.Size = new System.Drawing.Size(10, 66);
             this.pictureBox225.TabIndex = 224;
             this.pictureBox225.TabStop = false;
-            this.pictureBox225.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox225.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox226
             // 
@@ -2992,8 +2541,6 @@
             this.pictureBox226.Size = new System.Drawing.Size(157, 10);
             this.pictureBox226.TabIndex = 225;
             this.pictureBox226.TabStop = false;
-            this.pictureBox226.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox226.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox227
             // 
@@ -3003,8 +2550,6 @@
             this.pictureBox227.Size = new System.Drawing.Size(10, 42);
             this.pictureBox227.TabIndex = 226;
             this.pictureBox227.TabStop = false;
-            this.pictureBox227.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox227.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox228
             // 
@@ -3014,8 +2559,6 @@
             this.pictureBox228.Size = new System.Drawing.Size(38, 10);
             this.pictureBox228.TabIndex = 227;
             this.pictureBox228.TabStop = false;
-            this.pictureBox228.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox228.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox229
             // 
@@ -3025,8 +2568,6 @@
             this.pictureBox229.Size = new System.Drawing.Size(40, 10);
             this.pictureBox229.TabIndex = 228;
             this.pictureBox229.TabStop = false;
-            this.pictureBox229.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox229.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox230
             // 
@@ -3036,8 +2577,6 @@
             this.pictureBox230.Size = new System.Drawing.Size(10, 34);
             this.pictureBox230.TabIndex = 229;
             this.pictureBox230.TabStop = false;
-            this.pictureBox230.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox230.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox231
             // 
@@ -3047,8 +2586,6 @@
             this.pictureBox231.Size = new System.Drawing.Size(67, 10);
             this.pictureBox231.TabIndex = 230;
             this.pictureBox231.TabStop = false;
-            this.pictureBox231.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox231.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox232
             // 
@@ -3058,8 +2595,6 @@
             this.pictureBox232.Size = new System.Drawing.Size(37, 11);
             this.pictureBox232.TabIndex = 231;
             this.pictureBox232.TabStop = false;
-            this.pictureBox232.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox232.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox233
             // 
@@ -3069,8 +2604,6 @@
             this.pictureBox233.Size = new System.Drawing.Size(11, 71);
             this.pictureBox233.TabIndex = 232;
             this.pictureBox233.TabStop = false;
-            this.pictureBox233.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox233.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox234
             // 
@@ -3080,8 +2613,6 @@
             this.pictureBox234.Size = new System.Drawing.Size(102, 10);
             this.pictureBox234.TabIndex = 233;
             this.pictureBox234.TabStop = false;
-            this.pictureBox234.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox234.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox235
             // 
@@ -3091,8 +2622,6 @@
             this.pictureBox235.Size = new System.Drawing.Size(10, 37);
             this.pictureBox235.TabIndex = 234;
             this.pictureBox235.TabStop = false;
-            this.pictureBox235.MarginChanged += new System.EventHandler(this.pictureBox235_MarginChanged);
-            this.pictureBox235.MouseEnter += new System.EventHandler(this.pictureBox235_MouseEnter);
             // 
             // pictureBox236
             // 

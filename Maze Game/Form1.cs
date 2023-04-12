@@ -10,11 +10,6 @@ namespace Maze_Game
             pictureBox238.Location = new Point(284, 8); //sets the movement peice start position
         }
 
-        private void pictureBox235_MarginChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void keyDown(object sender, KeyEventArgs e) //moves the peice when a key is pressed down
         {
             if(e.KeyCode == Keys.Left)
@@ -35,11 +30,6 @@ namespace Maze_Game
             }
         }
 
-        private void pictureBox12_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void keyUp(object sender, KeyEventArgs e) //stops the movement when the key is released
         {
             if (e.KeyCode == Keys.Left)
@@ -58,11 +48,6 @@ namespace Maze_Game
             {
                 moveDown = false;
             }
-        }
-
-        private void pictureBox235_MouseEnter(object sender, EventArgs e)
-        {
-
         }
 
         private void moveTimerEvent(object sender, EventArgs e) //move timer at 20ms gives a velocity to the moving peice
