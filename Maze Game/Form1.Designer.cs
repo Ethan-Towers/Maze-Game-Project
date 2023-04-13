@@ -2644,7 +2644,7 @@
             // pictureBox238
             // 
             this.pictureBox238.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.pictureBox238.Location = new System.Drawing.Point(284, 8);
+            this.pictureBox238.Location = new System.Drawing.Point(972, 764);
             this.pictureBox238.Name = "pictureBox238";
             this.pictureBox238.Size = new System.Drawing.Size(11, 11);
             this.pictureBox238.TabIndex = 237;

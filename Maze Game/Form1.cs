@@ -72,23 +72,24 @@ namespace Maze_Game
             if (pictureBox238.Bounds.IntersectsWith(pictureBox237.Bounds))
             {
                 pictureBox238.Location = new Point(284, 8);
-                MessageBox.Show("You have completed the maze. Congratulations!");
+
                 if (moveLeft == true)
                 {
-                    pictureBox238.Left -= 0;
+                    moveLeft = false;
                 }
                 if (moveRight == true)
                 {
-                    pictureBox238.Left += 0;
+                    moveRight = false;
                 }
                 if (moveUp == true)
                 {
-                    pictureBox238.Top -= 0;
+                    moveUp = false;
                 }
                 if (moveDown == true)
                 {
-                    pictureBox238.Top += 0;
+                    moveDown = false;
                 }
+                MessageBox.Show("You have completed the maze. Congratulations!");
             }
 
             //All code below is setting the boundaries for the maze. If the moving peice hits one of the boundaries, it gets reset to the start.
